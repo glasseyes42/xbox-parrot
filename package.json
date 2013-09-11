@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git://github.com/glasseyes42/xbox-parrot.git"
   },
+  "dependencies": {
+    "ar-drone": "latest",
+    "xbox-controller": "latest"
+  },
   "keywords": [
     "xbox",
     "parrot",
