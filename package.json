@@ -1,0 +1,26 @@
+{
+  "name": "xbox-parrot",
+  "version": "0.0.1",
+  "description": "control an Parrot AR Drone with an xbox controller",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/glasseyes42/xbox-parrot.git"
+  },
+  "keywords": [
+    "xbox",
+    "parrot",
+    "ar-drone",
+    "ardrone",
+    "controller",
+    "xbox-parrot"
+  ],
+  "author": "Chris Flook",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/glasseyes42/xbox-parrot/issues"
+  }
+}
