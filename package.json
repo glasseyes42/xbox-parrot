@@ -20,7 +20,8 @@
     "ar-drone",
     "ardrone",
     "controller",
-    "xbox-parrot"
+    "xbox-parrot",
+    "nodecopter"
   ],
   "author": "Chris Flook",
   "license": "BSD-2-Clause",
