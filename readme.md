@@ -16,7 +16,7 @@ Default control is a half speed mode to make learning and landing easier!
   * A => Takeoff
   * B => Land
   * X => Reset Emergency
-  * X => Stop
+  * Y => Stop
   * Back => Toggle Light Touch Mode
 
 * Shoulder
